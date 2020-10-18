@@ -11,3 +11,5 @@ The program does not use any command line arguments. When you run the program it
 If you bet the program will draw the third card and let you know if you won or lost, adjusting your money reserves appropriately.
 
 The game ends when you run out of money. You'll be asked if you want to play again. Enter "yes" if you want another game or "no" if you don't.
+
+If you are interested, there's a [development diary](https://laurencescotford.com/games-programming-from-the-ground-up-with-c-challenge-project-1/) for this game.
